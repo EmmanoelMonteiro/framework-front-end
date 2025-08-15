@@ -22,6 +22,14 @@ Uma implementação didática de Clean Architecture em projeto front-end
 
 [▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/clean-architecture-calculator)
 
+### ⚽ Servidor de Clubes do Cartola FC
+[![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
+[![Tecnologias](https://img.shields.io/badge/Tech-Node.js,HTML,CSS,JS-blue)]()
+
+Demonstração simples e prática de como um servidor Node.js pode interagir com uma API externa.
+
+[▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/listar_clubes-cartola-fc)
+
 ### 📇 CRM API Clientes
 [![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
 [![Tecnologias](https://img.shields.io/badge/Tech-Node.js,H2,RestAPI-orange)]()
