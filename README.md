@@ -14,6 +14,14 @@
 
 ## 🏆 Projetos Destaque
 
+### 🚀 Introdução Prática a Node.js e JavaScript
+[![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
+[![Tecnologias](https://img.shields.io/badge/Tech-Node.js,HTML,CSS,JS-blue)]()
+
+Demonstra a importância e o papel do **Node.js** e do **JavaScript** puro na criação de aplicações web modernas.
+
+[▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/nodejs-basics)
+
 ### 🧮 Calculadora com Clean Architecture
 [![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
 [![Tecnologias](https://img.shields.io/badge/Tech-HTML,CSS,JS-blue)]()
