@@ -30,6 +30,14 @@ Uma implementação didática de Clean Architecture em projeto front-end
 
 [▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/clean-architecture-calculator)
 
+### 🗒️ Lista de Compras
+[![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
+[![Tecnologias](https://img.shields.io/badge/Tech-HTML,CSS,JS-blue)]()
+
+Lista de Compras para demonstrar o uso de componentes em projeto front-end
+
+[▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/lista-compras)
+
 ### ⚽ Servidor de Clubes do Cartola FC
 [![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
 [![Tecnologias](https://img.shields.io/badge/Tech-Node.js,HTML,CSS,JS-blue)]()
